@@ -1,0 +1,1 @@
+{'energy': 20.4, 'location': 3}
